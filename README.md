@@ -1,4 +1,4 @@
-GraphQL
+# GraphQL
 
 ## Run the project
 

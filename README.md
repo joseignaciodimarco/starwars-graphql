@@ -1,4 +1,4 @@
-# GraphQL
+# Star Wars - Rest API to GraphQL
 
 ## Run the project
 

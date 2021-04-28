@@ -1,0 +1,22 @@
+{
+  "name": "star-wars-graphql",
+  "version": "1.0.0",
+  "description": "Star Wars - Rest API to GraphQL",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon ./app/server.js",
+    "test": "jest",
+    "lint": "eslint ./app/*.js && eslint ./app/**/*.js && eslint ./app/**/**/*.js && eslint ./test/**/*.js"
+  },
+  "author": "Jose Di Marco",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource-rest": "^0.11.0",
+    "apollo-server": "^2.22.1",
+    "graphql": "^15.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.25.0",
+    "nodemon": "^2.0.7"
+  }
+}

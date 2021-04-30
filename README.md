@@ -199,6 +199,7 @@ Result
 }
 ```
 #### A list of queries can be found on the right side of the playground once it is running. 
+* <em>DOCS > QUERIES</em>
 
 ## Run ESLint rules and unit tests
 * `npm run lint`
